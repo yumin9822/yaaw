@@ -1,0 +1,8 @@
+title: YAAW
+description: Yet Another Aria2 Web Frontend
+google_analytics: UA-8625344-7
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
